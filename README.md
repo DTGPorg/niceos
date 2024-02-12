@@ -1,0 +1,2 @@
+# niceos
+NiceOS Russian Linux
